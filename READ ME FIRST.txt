@@ -1,4 +1,5 @@
-https://screenrec.com/share/zjD42dtQTY
+https://screenrec.com/share/zjD42dtQTY //video
+https://drive.google.com/file/d/16WMVoYoH04747xkr7q-NnqOFgGNywrU6/view //pdf view on working steps
 Click the link for working of the project
 The project might have frontend bugs, but the data gets to store in the database as shown in the video. Any edit and update can easily be done in the database.
 The APIs are fully functional.
