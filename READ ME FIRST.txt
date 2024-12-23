@@ -3,3 +3,4 @@ https://drive.google.com/file/d/16WMVoYoH04747xkr7q-NnqOFgGNywrU6/view //pdf vie
 Click the link for working of the project
 The project might have frontend bugs, but the data gets to store in the database as shown in the video. Any edit and update can easily be done in the database.
 The APIs are fully functional.
+Be careful when closing the xampp. It might crash if it is not stopped before closing. 
